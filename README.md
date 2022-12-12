@@ -3,13 +3,13 @@
 >Status: Complete ✔️
 
 
-#### It is a web application created by the Squad 02 from Faculdade Senac Pernambuco, with the objective to improve our client's work, Anderson (sobrenome). 
+#### It is a website created by the Squad 02 from Faculdade Senac Pernambuco, with the objective to improve our client's work, Anderson. 
 
 ## Description:
-It is a website that assists in stock control, providing reports of sales, thus allowing a greater maintenance of the stock. The website will provide a chatbot that will facilitate the contact of customers with company and can also be integrated with Whatsapp, the website will help in publicizing the company, thus helping to attract and customer retention.
+It is a website that assists in stock control, providing reports of sales, to allow a better maintenance of the stock. The website will provide a chatbot that will facilitate the contact of customers with company and can also be integrated with Whatsapp. This network will help the company marketing, and so increasing client retention.
 
 ## Who is the client?
-Micro enterprise turned to cooking gas distribution. It has been for approximately 5 years in Marketplace. Serves about 04 districts of Recife.
+A Small business toward into gas supplier distribuition. It has been for approximately 5 years in marketplace. Serves about 4 districts of Recife.
 
 ## Technologies used in this project: 
 <table>
