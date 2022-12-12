@@ -7,11 +7,21 @@
 
 
 ## Technologies used in this project: 
-+ HTML5
-+ CSS
-+ PYTHON
-+ MYSQL 8.0
-
+<table>
+  <tr>
+     <td>Front-End</td>
+    <td>Back-End</td>
+    <td>DataBase</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+     <td>PYTHON</td>
+    <td>MYSQL 8.0</td>
+  </tr>
+    <tr>
+      <td>CSS</td>
+  </tr>
+</table>
 
 
 
