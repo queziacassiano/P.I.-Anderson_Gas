@@ -15,12 +15,10 @@ A Small business toward into gas supplier distribuition. It has been for approxi
 <table>
   <tr>
      <td>Front-End</td>
-    <td>Back-End</td>
     <td>DataBase</td>
   </tr>
   <tr>
     <td>HTML5</td>
-     <td>PYTHON</td>
     <td>MYSQL 8.0</td>
   </tr>
     <tr>
